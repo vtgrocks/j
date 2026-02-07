@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "valentine1",
+      "description": "A couple enjoying a sunset on the beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1497414826197-4166f61a8e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3VwbGUlMjBiZWFjaHxlbnwwfHx8fDE3Njk5NDMzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple beach"
+    },
+    {
+      "id": "valentine2",
+      "description": "Hands holding, showing a deep connection.",
+      "imageUrl": "https://images.unsplash.com/photo-1602830919209-0b3f9cd4b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFuZHMlMjBob2xkaW5nfGVufDB8fHx8MTc2OTg3NzU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hands holding"
+    },
+    {
+      "id": "valentine3",
+      "description": "A cozy picnic in a beautiful park.",
+      "imageUrl": "https://images.unsplash.com/photo-1747653369444-1e64868f68fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3VwbGUlMjBwaWNuaWN8ZW58MHx8fHwxNzY5ODg3NTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple picnic"
+    },
+    {
+      "id": "valentine4",
+      "description": "Laughing together in a coffee shop.",
+      "imageUrl": "https://images.unsplash.com/photo-1587053213559-c0511c50be8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjBsYXVnaGluZ3xlbnwwfHx8fDE3Njk5MTU3MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple laughing"
+    },
+    {
+      "id": "valentine5",
+      "description": "Dancing under the city lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1620414713230-564d61a36936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb3VwbGUlMjBkYW5jaW5nfGVufDB8fHx8MTc2OTg3MDc2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple dancing"
+    },
+    {
+      "id": "valentine6",
+      "description": "A silhouette of a couple against a starry night sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1594684199092-e84f8cd802c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3VwbGUlMjBzaWxob3VldHRlfGVufDB8fHx8MTc2OTg1NTM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple silhouette"
+    }
+  ]
+}
